@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=MUYIio&show_icons=true&theme=radical">
+
+### 👋hello！i'm MUYIio
+
+- 👉 about me：devotion for computers
+- 🌱 learning：Cpp/OS/Algorithms...
+- 📫 email：7375315@Gmail.com
+- ❤️ interest：hiking，coding…
+- 🌍 blog：go-sora.com
+
+
+
+<img align="center" src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/dino.gif" width="70%"/>
